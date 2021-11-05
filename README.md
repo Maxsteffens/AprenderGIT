@@ -30,3 +30,11 @@ git remote add origin https://github.com/Maxsteffens/AprenderGIT
 O github vai pedir para validar acesso do VSCode
 
 o no nosso respositório do Github precisamos dar o push, então git push origin main
+
+para madar pelo termial puro > git add .
+>git branch -M main
+>git comit - "textoexplicado a baçaca"
+>git push -u origin main
+>vai pedir seu loguin e senha
+>na senha colocar om Token pois nao aceita mais senha <perfil><setins><developer setings><Personal acess Token> Nome expiração
+vai precisar sempre para mandar 
